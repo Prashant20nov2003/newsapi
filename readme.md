@@ -3,7 +3,6 @@
 This project demonstrates the development of a RESTful API service using the Go programming language. It aims to provide a solid foundation for building your own APIs, adhering to common patterns and conventions.
 
 ![Go Version](https://img.shields.io/badge/Go-1.x+-00ADD8?style=flat&logo=go)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Features
 
@@ -91,7 +90,3 @@ docker build -t news-api .
 # Run the container
 docker run -p 8080:8080 news-api
 ```
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
