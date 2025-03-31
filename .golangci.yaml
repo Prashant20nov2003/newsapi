@@ -28,11 +28,11 @@ linters-settings:
   gocyclo:
     min-complexity: 15
   gofumpt:
-    module-path: github.com/codeandlearn1991/news-api
+    module-path: github.com/samosa/news-api
     extra-rules: true
   # Import statements are formatted
   goimports:
-    local-prefixes: github.com/codeandlearn1991/news-api
+    local-prefixes: github.com/samosa/news-api
   gosimple:
     checks: ["all"]
   govet:

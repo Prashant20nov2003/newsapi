@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codeandlearn1991/newsapi/internal/news"
-	"github.com/codeandlearn1991/newsapi/internal/postgres"
+	"github.com/samosa/newsapi/internal/news"
+	"github.com/samosa/newsapi/internal/postgres"
 	"github.com/docker/go-connections/nat"
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"

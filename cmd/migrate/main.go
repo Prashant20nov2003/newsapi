@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/codeandlearn1991/newsapi/internal/migration"
-	"github.com/codeandlearn1991/newsapi/internal/postgres"
+	"github.com/samosa/newsapi/internal/migration"
+	"github.com/samosa/newsapi/internal/postgres"
 	"github.com/uptrace/bun/extra/bundebug"
 	"github.com/uptrace/bun/migrate"
 	"github.com/urfave/cli/v2"

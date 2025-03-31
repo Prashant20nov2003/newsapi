@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/codeandlearn1991/newsapi/internal/handler"
-	"github.com/codeandlearn1991/newsapi/internal/news"
+	"github.com/samosa/newsapi/internal/handler"
+	"github.com/samosa/newsapi/internal/news"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

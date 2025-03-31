@@ -10,10 +10,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/codeandlearn1991/newsapi/internal/logger"
-	"github.com/codeandlearn1991/newsapi/internal/news"
-	"github.com/codeandlearn1991/newsapi/internal/postgres"
-	"github.com/codeandlearn1991/newsapi/internal/router"
+	"github.com/samosa/newsapi/internal/logger"
+	"github.com/samosa/newsapi/internal/news"
+	"github.com/samosa/newsapi/internal/postgres"
+	"github.com/samosa/newsapi/internal/router"
 	"golang.org/x/sync/errgroup"
 )
 

@@ -3,7 +3,7 @@ package router
 import (
 	"net/http"
 
-	"github.com/codeandlearn1991/newsapi/internal/handler"
+	"github.com/samosa/newsapi/internal/handler"
 )
 
 // New creates a new router with all the handlers configured.

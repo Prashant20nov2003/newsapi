@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/codeandlearn1991/newsapi/internal/logger"
+	"github.com/samosa/newsapi/internal/logger"
 	"github.com/stretchr/testify/assert"
 )
 

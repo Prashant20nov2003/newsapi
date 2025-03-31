@@ -8,10 +8,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/codeandlearn1991/newsapi/internal/handler"
-	mockshandler "github.com/codeandlearn1991/newsapi/internal/handler/mocks"
-	"github.com/codeandlearn1991/newsapi/internal/news"
 	"github.com/google/uuid"
+	"github.com/samosa/newsapi/internal/handler"
+	mockshandler "github.com/samosa/newsapi/internal/handler/mocks"
+	"github.com/samosa/newsapi/internal/news"
 	"github.com/stretchr/testify/assert"
 	"go.uber.org/mock/gomock"
 )

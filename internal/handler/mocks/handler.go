@@ -13,7 +13,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	news "github.com/codeandlearn1991/newsapi/internal/news"
+	news "github.com/samosa/newsapi/internal/news"
 	uuid "github.com/google/uuid"
 	gomock "go.uber.org/mock/gomock"
 )

@@ -1,4 +1,4 @@
-module github.com/codeandlearn1991/newsapi
+module github.com/samosa/newsapi
 
 go 1.24
 

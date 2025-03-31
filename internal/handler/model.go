@@ -6,8 +6,8 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/codeandlearn1991/newsapi/internal/news"
 	"github.com/google/uuid"
+	"github.com/samosa/newsapi/internal/news"
 )
 
 // NewsPostReqBody represents the post request body for the news.

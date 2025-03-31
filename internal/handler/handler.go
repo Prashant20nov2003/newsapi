@@ -6,9 +6,9 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/codeandlearn1991/newsapi/internal/logger"
-	"github.com/codeandlearn1991/newsapi/internal/news"
 	"github.com/google/uuid"
+	"github.com/samosa/newsapi/internal/logger"
+	"github.com/samosa/newsapi/internal/news"
 )
 
 //go:generate mockgen -source=handler.go -destination=mocks/handler.go -package=mockshandler
